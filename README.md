@@ -7,10 +7,10 @@
 Avocado is a SwiftUI-based recipe app that fetches and displays a list of recipes from a remote API. Users can view recipe details, including the name, cuisine type, and an image. The app supports refreshing the list and allows users to open the recipe source and video tutorial links when available.  
 
 ### **Screenshots / Video Demo**  
-![Screenshot 1] <img src="https://github.com/user-attachments/assets/23cd921f-70e9-4e47-a08c-a587fbc92afb" width="480">
+![Screenshot 1] <img src="https://github.com/user-attachments/assets/23cd921f-70e9-4e47-a08c-a587fbc92afb" width="360">
 
+![Screenshot 2] <img src="https://github.com/user-attachments/assets/a24235fc-d408-4085-905c-480ebd9e0edc" width="360">
 
-![IMG_5673](https://github.com/user-attachments/assets/a24235fc-d408-4085-905c-480ebd9e0edc)
 
 
 https://github.com/user-attachments/assets/6372d16f-6e71-4b49-a0f8-0c73aec79c4f
