@@ -1,6 +1,3 @@
-# Avocado
-
-
 # **Avocado – Recipe App**  
 
 ## **Summary**  
